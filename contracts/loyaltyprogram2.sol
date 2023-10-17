@@ -4,7 +4,7 @@ pragma solidity ^0.8.18;
 contract LoyaltyProgram {
     address public owner; //contract owner
     
-    struct Customer {
+    struct Customer { // Customer (balance , isRegistered)
         uint256 balance; // can be called to check the balance points
         bool isRegistered; //customer need to register or they will not be able to earn or redeem points
     }

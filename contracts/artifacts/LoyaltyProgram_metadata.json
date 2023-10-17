@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.21+commit.d9974bed"
+		"version": "0.8.18+commit.87f61d96"
 	},
 	"language": "Solidity",
 	"output": {
@@ -257,7 +257,7 @@
 		"compilationTarget": {
 			"contracts/loyaltyprogram2.sol": "LoyaltyProgram"
 		},
-		"evmVersion": "shanghai",
+		"evmVersion": "paris",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -270,11 +270,11 @@
 	},
 	"sources": {
 		"contracts/loyaltyprogram2.sol": {
-			"keccak256": "0x6864ba197b3678bc519338289df3352c8d39833601661d382d54fa5678da13db",
+			"keccak256": "0x9b6a0a4d3ea7d5c425db0b7daea5ca62f09145cb6b082f1f79de2f7fc06d993e",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://0c1ea907bf0fdd3707d6bb5d97e667fdb5f2fc27177aff229f43d9b8c69525db",
-				"dweb:/ipfs/QmTY9kBXHatBdvKGgaT2qQ4f15eZ4wjrTwPNXmEZRY1gd9"
+				"bzz-raw://d67af7d459bc12827f2d8ffb427d0142c1a8a3aea4d97e27148ca31717809009",
+				"dweb:/ipfs/QmPazTXhqjm66UJjeyFZHhB1UGGZkzUEsqpWg8yFbW61sJ"
 			]
 		}
 	},
